@@ -2,7 +2,7 @@
 
 <h2> Phase 1 </h2>
 
-<b>Author<b/>: Andreu Mora (andreu@hoberlab.com)
+<b>Author</b>: Andreu Mora (andreu@hoberlab.com)
 
 <b>Date</b>: 24/08/17
 
