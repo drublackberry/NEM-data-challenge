@@ -1,8 +1,11 @@
-** NEM data analysis challenge**
-** Phase 1 **
+* NEM data analysis challenge*
+
+* Phase 1 *
 
 Author: Andreu Mora (andreu@hoberlab.com)
+
 Date: 24/08/17
+
 
 The task has been split in two subtasks: 
 
@@ -13,10 +16,10 @@ The task has been split in two subtasks:
 A report on EDA has been written and attached as well in PDF. The report summarized the figures contained in the EDA notebook, wiht the sole purpose to fit the 5 page requirement.
 
 Contents:
-- "README.md": this file
-- "dataset_processed.csv" the output file
-- "ETL" folder: contains code for the Extract, Transform, Load analysis.
-- "EDA" folder: contains code for the Exploratory Data Analysis
-- "EDA_report.pdf": cointains a 5 page report, which is the summary of the exploration donde in the EDA notebook.
+- `README.md`: this file
+- `dataset_processed.csv` the output file
+- `ETL` folder: contains code for the Extract, Transform, Load analysis.
+- `EDA` folder: contains code for the Exploratory Data Analysis
+- `EDA_report.pdf`: cointains a 5 page report, which is the summary of the exploration donde in the EDA notebook.
 
 From 25/08/17 onwards these files will be as well available on https://github.com/drublackberry/NEM-data-challenge
