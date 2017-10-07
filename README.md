@@ -27,15 +27,15 @@ From 25/08/17 onwards these files will be as well available on https://github.co
 <h2> Phase 2 </h2>
 
 <b>Author</b>: Andreu Mora (andreu@hoberlab.com) 
-<b>Date<b/>: 26/09/17 
+<b>Date</b>: 26/09/17 
 
 The prediction tasks consists in predicting the output power of 5 wind turbines based on historical sensor data and weather forecasts. 
 
-The delivered material is structured in the folder <b>`PRD` for prediction</b> as follows: 
+The delivered material is structured as follows: 
 
-* `src` folder. Contains the notebook with the guided explanations and plots to both understand and process the data. The notebook (.ipynb) can be executed within the right python environment (sklearn, matplotlib, pandas, numpy, scipy). The same notebook has been exported to python code and html. 
+* `PRD/src` folder. Contains the notebook with the guided explanations and plots to both understand and process the data. The notebook (.ipynb) can be executed within the right python environment (sklearn, matplotlib, pandas, numpy, scipy). The same notebook has been exported to python code and html. 
 
-* `data`: the output CSV files for every day that the prediction was needed. It contains three columns: asset, range, pred_WTRUPower. There is one file per day. 
+* `PRD/data`: the output CSV files for every day that the prediction was needed. It contains three columns: asset, range, pred_WTRUPower. There is one file per day. 
 
 * `PRD_Prediction_Wind_Power_Approach`: report that presents the approach followed and the performance of a Ridge regression 
 
