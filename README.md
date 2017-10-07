@@ -23,3 +23,22 @@ Contents:
 - `EDA_report.pdf`: cointains a 5 page report, which is the summary of the exploration donde in the EDA notebook.
 
 From 25/08/17 onwards these files will be as well available on https://github.com/drublackberry/NEM-data-challenge
+
+<h2> Phase 2 </h2>
+
+<b>Author</b>: Andreu Mora (andreu@hoberlab.com) 
+<b>Date<b/>: 26/09/17 
+
+The prediction tasks consists in predicting the output power of 5 wind turbines based on historical sensor data and weather forecasts. 
+
+The delivered material is structured in the folder <b>`PRD` for prediction</b> as follows: 
+
+* `src` folder. Contains the notebook with the guided explanations and plots to both understand and process the data. The notebook (.ipynb) can be executed within the right python environment (sklearn, matplotlib, pandas, numpy, scipy). The same notebook has been exported to python code and html. 
+
+* `data`: the output CSV files for every day that the prediction was needed. It contains three columns: asset, range, pred_WTRUPower. There is one file per day. 
+
+* `PRD_Prediction_Wind_Power_Approach`: report that presents the approach followed and the performance of a Ridge regression 
+
+* `PRD_Prediction_Wind_Power_NeuralNetwork` report showing the performance of a fully-connected neural network for regression. It does not repeat the approach explanation. 
+
+From 1/10/17 onwards these files will be as well available on https://github.com/drublackberry/NEM-data-challenge
